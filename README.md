@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=keerat666&layout=compact&theme=tokyonight)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=keerat666&theme=tokyonight&show_icons=true&count_private=true)
+
 
 - 🔭 I’m currently working on exploring new Tech
 - 👯 I’m looking to collaborate on fun side projects that have the potential to earn money 
