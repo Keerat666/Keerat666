@@ -9,10 +9,8 @@
 - 🔭 I’m currently working on exploring new Tech
 - 👯 I’m looking to collaborate on fun side projects that have the potential to earn money 
 - 📫 How to reach me: Drop me a message at gurkeeratsondhi@gmail.com
-- ⚡ Fun fact: Googles first tweet was gibberish.It said : <br>
-  “I’m 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010”
-  <br>
-  Translated from binary to English, this tweet says “I’m feeling lucky.”
+- ⚡ Fun fact: There are more likes than photos on Facebook.
+
 
 Thanks for visiting ✨
 <!--
