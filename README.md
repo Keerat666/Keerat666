@@ -13,7 +13,7 @@
 </br>
 <div>
   
-* 🔭 I’m currently working on exploring new Tech
+* 🔭 I’m currently working on honing my frontend skills
 * 👯 I’m looking to collaborate on fun side projects that have the potential to earn money 
 * 📫 How to reach me: Drop me a message at gurkeeratsondhi@gmail.com
 * ⚡ Fun fact: There are more likes than photos on Facebook.
