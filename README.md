@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keerat666&show_icons=true&count_private=true" />
 </a>
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Keerat666" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Keerat666&v=2" />
 </a>
 </br>
 <div>
