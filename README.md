@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerat666&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerat666&layout=compact&bg_color=90,#fad0c4,#ffd1ff" />
 </a>
 
 <a>
