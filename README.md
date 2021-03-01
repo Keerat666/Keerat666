@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerat666&layout=compact&bg_color=90,#fad0c4,#ffd1ff" />
-</a>
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keerat666&show_icons=true&count_private=true" />
-</a>
- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Keerat666&v=2" />
-</a>
-</br>
-<div>
+![Metrics](https://metrics.lecoq.io/keerat666?template=classic&config.timezone=Asia%2FKolkata)
   
 * 🔭 I’m currently working on honing my frontend skills
 * 👯 I’m looking to collaborate on fun side projects that have the potential to earn money 
