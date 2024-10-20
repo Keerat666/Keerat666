@@ -3,10 +3,9 @@
 ### Welcome to my GitHub! 🚀
 
 
-🏅 It was a crazy 2023 with 2 back to back hackathon wins :
-
 #### 🏆 Winner at Bengaluru Open Mobility Challenge 2023 by Namma Yatri and ONDC.
 #### 🏆 Champion of inCode: Challenging Injustice 2023 by inDrive.
+#### 🏆 2nd Runners up at STG Makeathon 17 by Infosys (Internal Company Hackathon)
 
 <br>
 
