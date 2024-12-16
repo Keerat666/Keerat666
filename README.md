@@ -5,7 +5,7 @@
 
 #### 🏆 Winner at Bengaluru Open Mobility Challenge 2023 by Namma Yatri and ONDC.
 #### 🏆 Champion of inCode: Challenging Injustice 2023 by inDrive.
-#### 🏆 2nd Runner up at STG Makeathon 17 by Infosys (Internal Hackathon)
+#### 🏆 2nd Runner up at STG Makeathon 17, 2024 by Infosys (Internal Hackathon)
 
 <br>
 
